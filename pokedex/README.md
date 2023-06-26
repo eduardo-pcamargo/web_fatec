@@ -1,4 +1,4 @@
-##Projeto Web - Fatec
+## Projeto Web - Fatec
 
 Aproveitando a tarefa de desenvolver um html com css e etc., testei uma integração de API e o framework React para fazer uma pokédex.
 
